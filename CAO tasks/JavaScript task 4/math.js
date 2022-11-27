@@ -2,7 +2,7 @@
 {function alertName(name){
     return name;
 }
-// alert(alertName('I wrote something here'));
+alert(alertName('I wrote something here'));
 }
 
 //Ir ne visos funkcijos turi parametrus - sukurkite funkciją, kuri sugeneruos ir grąžins random skaičių tarp 1 ir 5.
